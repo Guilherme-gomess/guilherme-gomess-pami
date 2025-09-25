@@ -1,0 +1,20 @@
+{
+  "name": "leticia-temoteo-pami",
+  "version": "1.0.0",
+  "description": "Aulas de programação Mobile I com o professor João Siles na ETEC Prof. Camargo Aranha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeticiaATemoteo/leticia-temoteo-pami.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeticiaATemoteo/leticia-temoteo-pami/issues"
+  },
+  "homepage": "https://github.com/LeticiaATemoteo/leticia-temoteo-pami#readme"
+}
